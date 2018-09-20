@@ -1,0 +1,33 @@
+_repo: Etsiva-Samuel_53257
+_version: 0.0.1
+alternative_title: Samuel the seeker. Finnish
+creator:
+  author:
+    agent_name: Sinclair, Upton
+    aliases:
+    - Sinclair, Upton Beall
+    - Garrison, Frederick
+    - Fitch, Clarke
+    birthdate: 1878
+    deathdate: 1968
+    gutenberg_agent_id: '88'
+    url: http://www.gutenberg.org/2009/agents/88
+    wikipedia: http://en.wikipedia.org/wiki/Upton_Sinclair
+description: ''
+gutenberg_issued: '2016-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53257'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Fiction'
+- !lcsh 'Young men -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Socialism -- Fiction'
+- !lcsh 'Social problems -- Fiction'
+- GITenberg
+title: Etsivä Samuel
+url: http://www.gutenberg.org/ebooks/53257
